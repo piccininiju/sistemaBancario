@@ -38,4 +38,4 @@ Todas as interações acontecem por meio de uma interface desenvolvida com Tkint
 
 **Juliana Piccinini**  
 Projeto desenvolvido como parte da disciplina de **Programação com Interfaces Gráficas**.
-2025.1
+**2025.1**
