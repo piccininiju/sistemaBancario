@@ -37,5 +37,5 @@ Todas as interações acontecem por meio de uma interface desenvolvida com Tkint
 ## 👩‍💻 Autora
 
 **Juliana Piccinini**  
-Projeto desenvolvido como parte da disciplina de **Programação com Interfaces Gráficas**.
+Projeto desenvolvido como parte da disciplina de **Programação com Interfaces Gráficas**.  
 **2025.1**
