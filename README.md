@@ -28,7 +28,7 @@ Todas as interações acontecem por meio de uma interface desenvolvida com Tkint
 
 ## 💻 Tecnologias utilizadas  
 
-- **Python 3.11+  
+- **Python 3.11+**  
 - Tkinter (Interface gráfica)  
 - Datetime (registro de data/hora das operações)
 
